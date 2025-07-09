@@ -1,0 +1,6 @@
+*.tar.gz
+./dataset
+log
+cifar10_data/*
+*.png
+models
